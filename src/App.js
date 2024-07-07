@@ -1,9 +1,10 @@
 import './App.css';
+import Hero from './hero/index';
 
 function App() {
   return (
-    <div className="text-7xl text-center text-blue-700">
-      Hello World!
+    <div>
+      <Hero />
     </div>
   );
 }
