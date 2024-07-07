@@ -1,10 +1,10 @@
 import './App.css';
-import Hero from './hero/index';
+import Homepage from './pages/homepage';
 
 function App() {
   return (
     <div>
-      <Hero />
+      <Homepage/>
     </div>
   );
 }
