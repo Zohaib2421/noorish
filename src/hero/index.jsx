@@ -8,7 +8,7 @@ export default function Hero() {
     return ( 
         <>
             <Navbar/>
-            <NoorishButton text='TAKE A QUIZ' textColor='almostWhite' backgroundColor='almostWhite'/>
+            <NoorishButton text='TAKE A QUIZ' textColor='buttonTextColor' backgroundColor='almostWhite'/>
         </>
     )
 }
