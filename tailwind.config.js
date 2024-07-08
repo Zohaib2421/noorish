@@ -9,7 +9,8 @@ module.exports = {
       },
       colors: 
       {
-        noorishGreen: '#19251C'
+        noorishGreen: '#19251C',
+        almostWhite: '#FFFBEB',
       }
     },
   },
