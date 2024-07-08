@@ -1,10 +1,10 @@
 export default function navbar(navItems) {
     return (
-        <div className='flex justify-evenly min-w-full h-fit font-outfit text-white'>
-                <a href=''>HOME</a>
-                <a href=''>RESEARCH</a>
-                <a href=''>RECOMMENDATIONS</a>
-                <a href=''>ABOUT</a>
+        <div className='flex bg-noorishGreen justify-evenly min-w-full h-fit font-outfit text-white mt'>
+                <a href='' className='mt-5'>HOME</a>
+                <a href='' className='mt-5'>RESEARCH</a>
+                <a href='' className='mt-5'>RECOMMENDATIONS</a>
+                <a href='' className='mt-5'>ABOUT</a>
         </div>
     )
 }
